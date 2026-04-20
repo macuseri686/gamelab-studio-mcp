@@ -11,7 +11,7 @@ The setup page provides:
 - Copy-paste config for every supported client
 - Instant test to verify your connection
 
-  <img width="1180" height="813" alt="image" src="https://github.com/user-attachments/assets/589d61a8-e56e-4993-83ae-6b364e42bd7d" />
+<img width="1180" height="813" alt="image" src="https://github.com/user-attachments/assets/589d61a8-e56e-4993-83ae-6b364e42bd7d" />
 
 ## Use Cases
 
