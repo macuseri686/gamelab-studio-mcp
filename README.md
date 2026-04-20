@@ -4,7 +4,7 @@ Generate production-ready 2D game assets — images, animations, and sprite shee
 
 ## Quick Start
 
-Visit the setup guide at: **[https://gamelabstudio.co/blog/mcp-setup-guide](https://gamelabstudio.co/blog/mcp-setup-guide)******
+Visit the setup guide at: **[https://gamelabstudio.co/blog/mcp-setup-guide](https://gamelabstudio.co/blog/mcp-setup-guide)**
 
 The setup page provides:
 - One-click configuration for your AI coding assistant
