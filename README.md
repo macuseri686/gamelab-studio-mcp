@@ -6,6 +6,8 @@ Generate production-ready 2D game assets — images, animations, and sprite shee
 
 Visit the setup guide at: **[https://gamelabstudio.co/blog/mcp-setup-guide](https://gamelabstudio.co/blog/mcp-setup-guide)**
 
+[![smithery badge](https://smithery.ai/badge/macuseri686/gamelabstudio)](https://smithery.ai/servers/macuseri686/gamelabstudio)
+
 The setup page provides:
 - One-click configuration for your AI coding assistant
 - Copy-paste config for every supported client
